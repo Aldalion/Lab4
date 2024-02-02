@@ -1,0 +1,7 @@
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\bin\Debug\SystemRejestracjiOcen.exe.config
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\bin\Debug\SystemRejestracjiOcen.exe
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\bin\Debug\SystemRejestracjiOcen.pdb
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\obj\Debug\SystemRejestracjiOcen.csproj.AssemblyReference.cache
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\obj\Debug\SystemRejestracjiOcen.csproj.CoreCompileInputs.cache
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\obj\Debug\SystemRejestracjiOcen.exe
+C:\Users\Aldalion\Desktop\WSB\Podstawy programowania\Ćwiczenia\Lab4\SystemRejestracjiOcen\obj\Debug\SystemRejestracjiOcen.pdb
